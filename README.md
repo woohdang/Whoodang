@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my professional profile<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help to improve UX/UI experiences<br>🌱 I’m currently learning the Certified tech Developer Program<br>⚡ Fun fact: I'm a melomaniac
+🔭 I’m currently working on my professional profile<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help to improve technology solutions and create UX/UI experiences<br>🌱 I’m currently learning the Certified tech Developer Program<br>⚡ Fun fact: I'm a melomaniac
 
 
 # 💻 Tech Stack:
