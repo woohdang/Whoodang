@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 :hammer_and_pick: I’m currently a freelancer working to improve my professional profile<br>
 :heavy_check_mark: I’m looking to collaborate on Front-End Projects<br>
 🤝 I am looking to help improve technology solutions and create new experiences.<br>
