@@ -2,7 +2,7 @@
 :hammer_and_pick: I’m currently a freelancer working to improve my professional profile<br>
 :heavy_check_mark: I’m looking to collaborate on Front-End Projects<br>
 🤝 I am looking to help improve technology solutions and create new experiences.<br>
-🌱 I’m currently learning the Certified tech Developer Program<br>
+🌱 I’m currently learning the Certified Tech Developer Program<br>
 ⚡ Fun fact: I'm a melomaniac
 
 
