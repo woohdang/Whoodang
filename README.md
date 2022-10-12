@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a freelancer working to improve my professional profile<br>.
+🔭 I’m currently a freelancer working to improve my professional profile<br>
 👯 I’m looking to collaborate on Front-End Projects<br>
 🤝 I am looking to help improve technology solutions and create new experiences.<br>
 🌱 I’m currently learning the Certified tech Developer Program<br>
