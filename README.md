@@ -1,5 +1,7 @@
 # About Me:
-:hammer_and_pick: A freelancer working to improve my professional profile<br>
+Hi there!
+
+:hammer_and_pick: I'm a IT student working to improve my professional skils<br>
 :heavy_check_mark: I’m looking to collaborate on Front-End Projects<br>
 🤝 I'm looking to help improve technology solutions and create new experiences.<br>
 🌱 I'm currently studying in the Certified Technical Developer Program.<br>
