@@ -2,7 +2,7 @@
 Hi there!
 
 🤝 I'm looking to help improve technology solutions and create new experiences.<br>
-🌱 I'm currently studying in the [Certified Tech Developer Degree](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).<br>
+🌱 Currently studying in the [Certified Tech Developer Degree](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
   <a href="https://www.linkedin.com/#">
