@@ -3,14 +3,14 @@ Hi there!
 
 :heavy_check_mark: I’m looking to collaborate on Front-End Projects<br>
 🤝 I'm looking to help improve technology solutions and create new experiences.<br>
-🌱 I'm currently studying in the Certified Tech Developer Degree.<br>
+🌱 I'm currently studying in the [Certified Tech Developer Degree](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer) .<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
   <a href="https://www.linkedin.com/#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   <a>
-    <a href="https://medium.com/@thepolono/about">
+    <a href="https://medium.com/@thepolono">
     <img src="https://img.shields.io/badge/Medium-FFD606?style=for-the-badge&logo=medium&logoColor=black"/>
   </a>
 </p>
