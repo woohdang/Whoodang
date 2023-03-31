@@ -5,6 +5,10 @@ Hi there!
 🤝 I'm looking to help improve technology solutions and create new experiences.<br>
 🌱 I'm currently studying in the Certified Tech Developer Degree.<br>
 ⚡ Fun fact: I'm a melomaniac
+<a>
+  <a href="#">
+<img src="https://img.shields.io/badge/Medium-FFD606?style=for-the-badge&logo=medium&logoColor=black"/>
+</a>
 
 
 # 💻 Tech Stack:
