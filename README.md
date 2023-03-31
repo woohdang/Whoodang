@@ -1,4 +1,4 @@
-# About Me:
+# About
 Hi there!
 
 🤝 I'm looking to help improve technology solutions and create new experiences.<br>
