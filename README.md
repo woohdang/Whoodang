@@ -1,7 +1,7 @@
 # About
 Hi there!
 
-🤝 I'm a creator and looking to help improve technology solutions and create new experiences.<br>
+🤝 I'm a creator and I like to explore technological solutions to create new experiences.<br>
 🌱 Currently studying in the [Certified Tech Developer Degree](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
