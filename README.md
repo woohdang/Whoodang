@@ -2,7 +2,7 @@
 Hi there!
 
 🤝 I'm a creator and I like to explore technological solutions to create new experiences.<br>
-🌱 Currently studying in the [Certified Tech Developer Degree](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).<br>
+🌱 Currently studying [Certified Tech Developer](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
   <a href="https://www.linkedin.com/#">
